@@ -9,6 +9,7 @@ maintain consistency on GitHub, and track my learning progress.
 ## Topics Covered
 - Java Basics (syntax, variables, input/output)
 - Java Conditional Statements (If/else, Looping, switches, Java calculator, health buddy small project)
+- java functions (factorial, print prime in range , binomial, decimal to binary)
   
 ## Structure
 Each topic is organized into separate folders for better clarity
