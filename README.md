@@ -10,6 +10,7 @@ maintain consistency on GitHub, and track my learning progress.
 - Java Basics (syntax, variables, input/output)
 - Java Conditional Statements (If/else, Looping, switches, Java calculator, health buddy small project)
 - java functions (factorial,Palindrome, Average of 3 num, print prime in range, binomial, decimal to binary)
+- Java loops (prime or not, factorial,for loop, while loop, break, continue, sum of n, print table of any number)
   
 ## Structure
 Each topic is organized into separate folders for better clarity
