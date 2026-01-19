@@ -13,6 +13,7 @@ maintain consistency on GitHub, and track my learning progress.
 - Java loops (prime or not, factorial,for loop, while loop, break, continue, sum of n, print table of any number)
 - java Patterns (inverted star, alphabet pyramid, number pyramid, inverted star, floydTriangle, butterfly pattern)
 - dsa arrays (binary search, kadans subarray, trapping water, buy sell stock, max subarrays)
+- dsa sorting (bubble sort, selection sort, insertion sort)
   
 ## Structure
 Each topic is organized into separate folders for better clarity
